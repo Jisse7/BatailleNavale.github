@@ -4,7 +4,8 @@ Le Jeu comporte les fonctionnalités suivantes :
 
 -Joueur contre Joueur.
 -Joueur contre IA.
--Joueur contre Joueur en réseau.
+-Joueur contre Joueur en réseau. 
+     - Chat textuel intégré.
 -Système de suivi statistique.
 
 
