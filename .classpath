@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER" />
+	<classpathentry kind="src" path="src/main/java" />
+	<classpathentry kind="lib"
+		path="jgoodies-common-1.8.0.jar" />
+	<classpathentry kind="lib"
+		path="jgoodies-forms-1.8.0.jar" />
+	<classpathentry kind="lib"
+		path="lib/unknown/binary/javafx.base/SNAPSHOT/javafx.base-SNAPSHOT.jar" />
+	<classpathentry kind="lib"
+		path="lib/unknown/binary/javafx.graphics/SNAPSHOT/javafx.graphics-SNAPSHOT.jar" />
+	<classpathentry kind="lib"
+		path="lib/unknown/binary/javafx.media/SNAPSHOT/javafx.media-SNAPSHOT.jar" />
+	<classpathentry kind="lib"
+		path="lib/unknown/binary/javafx.web/SNAPSHOT/javafx.web-SNAPSHOT.jar" />
+	<classpathentry kind="lib"
+		path="lib/unknown/binary/javafx-swt/SNAPSHOT/javafx-swt-SNAPSHOT.jar" />
+	<classpathentry kind="lib" path="miglayout15-swing.jar" />
+	<classpathentry kind="output" path="target/classes" />
+</classpath>
