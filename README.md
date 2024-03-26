@@ -1,3 +1,6 @@
+Vidéo démonstrative :  https://www.youtube.com/watch?v=tKBFL9y_APU&ab_channel=ChristopheFeydel
+
+
 Jeu de Bataille navale réalisé en groupe.
 
 Le Jeu comporte les fonctionnalités suivantes : 
